@@ -7,4 +7,4 @@ def test_greet():
 if __name__ == "__main__":
     greet()
     test_greet()
-    print("CI Pipeline Test Passed!")
+    print("Hello, CI Pipeline !")
